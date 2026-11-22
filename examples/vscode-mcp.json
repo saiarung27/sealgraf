@@ -1,0 +1,8 @@
+{
+  "servers": {
+    "sealgraf": {
+      "type": "http",
+      "url": "https://sealgraf.com/mcp"
+    }
+  }
+}

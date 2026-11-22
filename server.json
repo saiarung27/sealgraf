@@ -1,0 +1,18 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "com.sealgraf/sealgraf",
+  "description": "Sealgraf checks agent purchases against the owner's limits and seals a receipt anyone can check.",
+  "title": "Sealgraf",
+  "version": "1.0.0",
+  "websiteUrl": "https://sealgraf.com",
+  "repository": {
+    "url": "https://github.com/saiarung27/sealgraf",
+    "source": "github"
+  },
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://sealgraf.com/mcp"
+    }
+  ]
+}
