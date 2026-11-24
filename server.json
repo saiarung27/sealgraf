@@ -3,7 +3,7 @@
   "name": "com.sealgraf/sealgraf",
   "description": "Sealgraf checks agent purchases against the owner's limits and seals a receipt anyone can check.",
   "title": "Sealgraf",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "websiteUrl": "https://sealgraf.com",
   "repository": {
     "url": "https://github.com/saiarung27/sealgraf",
